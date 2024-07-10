@@ -5,7 +5,7 @@ in_menu: true
 ---
 ## Fête de la Bière
 
-**_L'association du Casteron_** vous invite à venir passer un moment convivial entre amis et voisins en dégustant les différentes variétés de bières proposé 
+**_L'association du Casteron_** vous invite à venir passer un moment convivial entre amis et voisins en dégustant les différentes variétés de bières proposé,
 
 ![Dark Beer]({% link images/dark-beer.jpg %})
 
