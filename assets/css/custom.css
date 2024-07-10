@@ -2,6 +2,9 @@
     --couleur-primaire :#34495E  ;
 }
 :p {
-    --couleur-primaire : #D1F2EB ;
+    --couleur-primaire :#D1F2EB ;
+{
+:background-color{
+    --couleur-primaire :#424949;
 {
 
