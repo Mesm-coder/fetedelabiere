@@ -6,4 +6,8 @@ in_menu: true
 **Contact**
 
 Association du Casteron:06.10.20.30.40
+
+**Reservation**
+
+email:association@casteron.mail
 ` 
