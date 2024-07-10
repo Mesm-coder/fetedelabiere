@@ -1,11 +1,11 @@
 ---
-title: "Activités"
+title: "<h1>Activités<h1>"
 order: 1
 in_menu: true
 ---
 L’association du Casteron est en collaboration avec des organismes publics, des organisations privées et des individus.
 
-## Nos activités ##
+## Nos activités
 
 A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
 
