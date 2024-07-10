@@ -1,5 +1,5 @@
 ---
-title: "Fête de la bière"
+title: "<h1>Fête de la bière<h1>"
 order: 0
 in_menu: true
 ---
