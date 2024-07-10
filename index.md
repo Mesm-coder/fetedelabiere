@@ -7,4 +7,4 @@ in_menu: true
 
 **L'association du Casteron** vous invite à venir passer un moment convivial en dégustant les différentes variétés de bières proposé ainsi qu'un bon burger préparé par votre food-truck préféré !!
 
-<img width="150%" src="({% link images/dark-beer.jpg %})"> 
+<img width="50%" src="({% link images/dark-beer.jpg %})"> 
