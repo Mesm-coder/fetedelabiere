@@ -3,7 +3,7 @@ title: "Evènements"
 order: 0
 in_menu: true
 ---
-##Fête de la Bière
+## Fête de la Bière
 
 **_L'association du Casteron_** vous invite à venir passer un moment convivial entre amis et voisins en dégustant les différentes variétés de bières proposé,
 
